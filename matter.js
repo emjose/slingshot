@@ -184,7 +184,7 @@
             });
     
             // render properties
-            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#b2d3e1', '#f5e7e3', '#e7cebf', '#D65353', '#f7c45f'])),
+            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#405de6', '#5851d8', '#833ab4', '#c13584', '#e1306c', '#fd1d1d', '#f56040', '#f77737', '#fcaf45', '#ffdc80', '#0496FF'])),
                 defaultStrokeStyle = '#000';
             body.render.fillStyle = body.render.fillStyle || defaultFillStyle;
             body.render.strokeStyle = body.render.strokeStyle || defaultStrokeStyle;
@@ -193,6 +193,7 @@
         };
     
             //default colors '#006BA6', '#0496FF', '#FFBC42', '#D81159', '#8F2D56'
+            //palette '#b2d3e1', '#f5e7e3', '#e7cebf', '#D65353', '#f7c45f'
 
         /**
          * Given a property and a value (or map of), sets the property(s) on the body, using the appropriate setter functions if they exist.
@@ -8412,6 +8413,7 @@
                     pixelRatio: 1,
                     background: '#18181d',
                     // background: '#fff',
+                    // background: '#18181d',
                     wireframeBackground: '#0f0f13',
                     hasBounds: !!options.bounds,
                     enabled: true,
