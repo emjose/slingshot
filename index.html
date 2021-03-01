@@ -23,9 +23,12 @@
             }
         });
 
+        // Ground parameters
         let ground = Matter.Bodies.rectangle(1150, 520, 600, 15, { isStatic: true });
 
-        // third argument is ball pixel size
+        
+
+        // Slingshot position and size
         let ball = Matter.Bodies.circle(300, 600, 15);
         let sling = Matter.Constraint.create({
             pointA: { x: 300, y: 600 },
@@ -55,7 +58,7 @@
             }
         });
 
-        // in arguments, 8 was number of shape sides, 30 was pixel size
+        // Shape paramters, '8' for octagon
         let stack = Matter.Composites.stack(900, 1, 15, 15, 0, 0, function (x, y) {
             return Matter.Bodies.polygon(x, y, 8, 18);
         });
@@ -65,5 +68,7 @@
         Matter.Render.run(render);
 
     </script>
+
+
 </body>
 </html>

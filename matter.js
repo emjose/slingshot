@@ -184,7 +184,7 @@
             });
     
             // render properties
-            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#f5e7e3', '#833ab4',  '#e1306c', '#fd1d1d', '#FFBC42', '#0496FF', '#f77737' ])),
+            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose([ '#833ab4', '#fd1d1d', '#FFcd01', '#0496FF', '#FF6a03' ])),
                 defaultStrokeStyle = '#000';
             body.render.fillStyle = body.render.fillStyle || defaultFillStyle;
             body.render.strokeStyle = body.render.strokeStyle || defaultStrokeStyle;
@@ -194,6 +194,9 @@
     
             //default colors '#006BA6', '#0496FF', '#FFBC42', '#D81159', '#8F2D56'
             //palette '#b2d3e1', '#f5e7e3', '#e7cebf', '#D65353', '#f7c45f' '#ffd300'
+            // '#54478c', '#2c699a', '#048ba8', '#0db39e', '#16db93', '#83e377', '#b9e769', '#efea5a', '#f1c453', '#f29e4c'
+
+            // '#33a8c7', '#52e3e1', '#a0e426', '#fdf148', '#ffab00', '#f77976', '#f050ae', '#d883ff', '#9336fd'
 
         /**
          * Given a property and a value (or map of), sets the property(s) on the body, using the appropriate setter functions if they exist.
