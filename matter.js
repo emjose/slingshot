@@ -184,7 +184,7 @@
             });
     
             // render properties
-            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#006BA6', '#0496FF', '#FFBC42', '#D81159', '#8F2D56'])),
+            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#b2d3e1', '#f5e7e3', '#e7cebf', '#D65353', '#f7c45f'])),
                 defaultStrokeStyle = '#000';
             body.render.fillStyle = body.render.fillStyle || defaultFillStyle;
             body.render.strokeStyle = body.render.strokeStyle || defaultStrokeStyle;
@@ -192,6 +192,8 @@
             body.render.sprite.yOffset += -(body.bounds.min.y - body.position.y) / (body.bounds.max.y - body.bounds.min.y);
         };
     
+            //default colors '#006BA6', '#0496FF', '#FFBC42', '#D81159', '#8F2D56'
+
         /**
          * Given a property and a value (or map of), sets the property(s) on the body, using the appropriate setter functions if they exist.
          * Prefer to use the actual setter functions in performance critical situations.
@@ -8406,7 +8408,7 @@
                 frameRequestId: null,
                 options: {
                     width: 800,
-                    height: 400,
+                    height: 600,
                     pixelRatio: 1,
                     background: '#18181d',
                     // background: '#fff',
