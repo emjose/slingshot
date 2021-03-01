@@ -8406,9 +8406,10 @@
                 frameRequestId: null,
                 options: {
                     width: 800,
-                    height: 600,
+                    height: 400,
                     pixelRatio: 1,
-                    background: '#18181d',
+                    // background: '#18181d',
+                    background: '#fff',
                     wireframeBackground: '#0f0f13',
                     hasBounds: !!options.bounds,
                     enabled: true,
