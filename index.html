@@ -25,6 +25,7 @@
 
         let ground = Matter.Bodies.rectangle(1200, 500, 300, 20, { isStatic: true });
 
+        // third argument is ball pixel size
         let ball = Matter.Bodies.circle(300, 600, 20);
         let sling = Matter.Constraint.create({
             pointA: { x: 300, y: 600 },
@@ -54,8 +55,9 @@
             }
         });
 
-        let stack = Matter.Composites.stack(1100, 270, 4, 4, 0, 0, function (x, y) {
-            return Matter.Bodies.polygon(x, y, 8, 30);
+        // in arguments, 8 was number of shape sides, 30 was pixel size
+        let stack = Matter.Composites.stack(1050, 1, 9, 16, 0, 0, function (x, y) {
+            return Matter.Bodies.polygon(x, y, 8, 18);
         });
 
         Matter.World.add(engine.world, [stack, ground, ball, sling, mouseConstraint]);
