@@ -5,7 +5,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(36, 36, 36);
+  background-color: #18181d;
 }
 
 /* canvas {

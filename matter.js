@@ -184,7 +184,7 @@
             });
     
             // render properties
-            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#f5e7e3', '#405de6', '#833ab4',  '#e1306c', '#fd1d1d', '#FFBC42', '#0496FF', '#f77737' ])),
+            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#f5e7e3', '#833ab4',  '#e1306c', '#fd1d1d', '#FFBC42', '#0496FF', '#f77737' ])),
                 defaultStrokeStyle = '#000';
             body.render.fillStyle = body.render.fillStyle || defaultFillStyle;
             body.render.strokeStyle = body.render.strokeStyle || defaultStrokeStyle;
