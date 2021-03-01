@@ -184,7 +184,7 @@
             });
     
             // render properties
-            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#405de6', '#5851d8', '#833ab4', '#c13584', '#e1306c', '#fd1d1d', '#f56040', '#f77737', '#fcaf45', '#ffdc80', '#0496FF'])),
+            var defaultFillStyle = (body.isStatic ? '#2e2b44' : Common.choose(['#f5e7e3', '#405de6', '#833ab4',  '#e1306c', '#fd1d1d', '#fcaf45', '#0496FF', '#f77737' ])),
                 defaultStrokeStyle = '#000';
             body.render.fillStyle = body.render.fillStyle || defaultFillStyle;
             body.render.strokeStyle = body.render.strokeStyle || defaultStrokeStyle;
@@ -3613,12 +3613,13 @@
             constraint.angleA = constraint.bodyA ? constraint.bodyA.angle : constraint.angleA;
             constraint.angleB = constraint.bodyB ? constraint.bodyB.angle : constraint.angleB;
             constraint.plugin = {};
-    
+            
+            // slingshot thread color
             // render
             var render = {
                 visible: true,
-                lineWidth: 2,
-                strokeStyle: '#ffffff',
+                lineWidth: 3,
+                strokeStyle: '#ff45ff',
                 type: 'line',
                 anchors: true
             };
@@ -8410,7 +8411,7 @@
                 options: {
                     width: 800,
                     height: 600,
-                    pixelRatio: 1,
+                    pixelRatio: 2,
                     background: '#18181d',
                     // background: '#fff',
                     // background: '#18181d',
