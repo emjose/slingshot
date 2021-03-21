@@ -1,6 +1,19 @@
+<p id="header"><p>
+<table><tr>
+<td> <a href="https://github.com/emjose/kboard/#header"><img src="assets/header-left.png" alt="previous" style="width: 200px;"/></a> </td>
+<td> <a href=#header><img src="assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
+<td> <a href="https://github.com/emjose/toast-notifications/#header"><img src="assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
+</tr></table>
+
+<br>
+
 <p id="project-title"><p>
 
 <a href=#table-of-contents>![Slingshot Game](Assets/inter-021-slingshot.png)</a> 
+
+<br>
+
+<a href="https://emjose.github.io/">![Slingshot Game](Assets/preview-021-slingshot-game.png)</a> 
 
 #
 
@@ -20,16 +33,15 @@
 
 <a href=#table-of-contents>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-test\
-test
+<a href=#100days>![under construction](assets/lorem-text.png)</a>
 
 #
 
 <p id="installation"><p>
 
-<a href=#table-of-contents>![Installation](Assets/inter-installation.png)</a>  
-test\
-test
+<a href=#table-of-contents>![Installation](Assets/inter-installation.png)</a>
+
+<a href=#installation>![under construction](assets/lorem-text.png)</a>
 
 #
 
@@ -37,8 +49,7 @@ test
 
 <a href=#table-of-contents>![Demos](Assets/inter-demo.png)</a>  
 
-test\
-test
+<a href=#demo>![under construction](assets/lorem-text.png)</a>
 
 #
 
@@ -46,8 +57,7 @@ test
 
 <a href=#table-of-contents>![Demos](Assets/inter-resources.png)</a>  
 
-test\
-test
+<a href=#resources>![under construction](assets/lorem-text.png)</a>
 
 #
 
@@ -59,7 +69,7 @@ test
 
 #
 
-<a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a> 
+<a href=#header>![Back to Top](Assets/inter-congrats.png)</a> 
 
 
 
