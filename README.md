@@ -34,7 +34,9 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 21: March 1, 2021
+- I love playing <a href="https://www.angrybirds.com/">Angry Birds</a>, and I followed a tutorial on creating a simple slingshot game with <a href="https://brm.io/matter-js/">Matter.js</a>.
+- <a href="https://brm.io/matter-js/">Matter.js</a> is a powerful 2D physics engine that is written in JavaScript.
 
 #
 
@@ -57,7 +59,7 @@ open index.html
 
 <a href="https://emjose.github.io/slingshot/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/slingshot/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/slingshot/">![Under Construction](Assets/021-slingshot.gif)</a>
 
 #
 
@@ -65,7 +67,13 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Slingshot Tutorial](https://youtu.be/PsL3iI61wl8) by [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg) 
+  
+- #### [Angry Birds with Matter.js](https://youtu.be/TDQzoe9nslY) by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+  
+- #### [Matter.js Home](https://brm.io/matter-js/) by [Liam](https://brm.io/)
+
+- #### [Matter.js Demos](https://brm.io/matter-js/demo/#mixed)
 
 #
 
