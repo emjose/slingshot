@@ -36,7 +36,8 @@
 
 ### Day 21: March 1, 2021
 - I love playing <a href="https://www.angrybirds.com/">Angry Birds</a>, and I followed a tutorial on creating a simple slingshot game with <a href="https://brm.io/matter-js/">Matter.js</a>.
-- <a href="https://brm.io/matter-js/">Matter.js</a> is a powerful 2D physics engine that is written in JavaScript.
+  
+- <a href="https://brm.io/matter-js/">Matter.js</a> is a powerful 2D rigid body physics engine written in JavaScript.
 
 #
 
@@ -52,6 +53,7 @@ git clone git@github.com:emjose/slingshot.git && cd slingshot
 ```
 open index.html
 ```
+#### Operate the slingshot, or directly move the Matter.js bodies with your cursor.
 
 #
 
