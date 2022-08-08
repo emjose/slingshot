@@ -46,19 +46,19 @@
 
 <a href=#installation>![Installation](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389842/Readme%20Headers/inter-installation_j9ixlq.png)</a>
 
-#### Git clone and cd into the repo folder:
+#### 1. Git clone and cd into the repo folder:
 
 ```console
 git clone git@github.com:emjose/slingshot.git && cd slingshot
 ```
 
-#### Run the command:
+#### 2. Run the command:
 
 ```console
 open index.html
 ```
 
-#### Operate the slingshot, or directly move the Matter.js bodies with your cursor.
+#### 3. Operate the slingshot, or directly move the Matter.js bodies with your cursor.
 
 #
 
