@@ -236,7 +236,8 @@
 								inertia: options.inertia || body.inertia,
 							});
 
-							// render properties
+							// render properties and colors
+							// purple, red, yellow, blue, orange
 							var defaultFillStyle = body.isStatic
 									? "#2e2b44"
 									: Common.choose(["#833ab4", "#fd1d1d", "#FFcd01", "#0496FF", "#FF6a03"]),
@@ -3750,7 +3751,7 @@
 							constraint.angleB = constraint.bodyB ? constraint.bodyB.angle : constraint.angleB;
 							constraint.plugin = {};
 
-							// slingshot thread color
+							// slingshot thread pink color
 							// render
 							var render = {
 								visible: true,
