@@ -28,6 +28,8 @@
 -   [Resources](#resources)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -39,6 +41,8 @@
 -   I love playing <a href="https://www.angrybirds.com/">Angry Birds</a>, and I followed a tutorial on creating a simple slingshot game with <a href="https://brm.io/matter-js/">Matter.js</a>.
 
 -   <a href="https://brm.io/matter-js/">Matter.js</a> is a powerful 2D rigid body physics engine written in JavaScript.
+
+<br>
 
 #
 
@@ -60,6 +64,8 @@ open index.html
 
 #### 3. Operate the slingshot, or directly move the Matter.js bodies with your cursor.
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -67,6 +73,14 @@ open index.html
 <a href="https://emjose.github.io/slingshot/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/slingshot/">![Under Construction](Assets/021-slingshot.gif)</a>
+
+• The **[Slingshot Game](https://emjose.github.io/slingshot/)** is best viewed on a desktop or laptop computer browser.
+
+• The **[Slingshot Game](https://emjose.github.io/slingshot/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+• The stack of shapes can be collapsed with the slingshot, or direct interaction with the mouse.
+
+<br>
 
 #
 
@@ -81,6 +95,8 @@ open index.html
 -   #### [Matter.js Demos](https://brm.io/matter-js/demo/#mixed)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
