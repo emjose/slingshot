@@ -74,7 +74,7 @@ open index.html
 
 <a href="https://emjose.github.io/slingshot/">![Under Construction](Assets/021-slingshot.gif)</a>
 
-• The **[Slingshot Game](https://emjose.github.io/slingshot/)** is best viewed on a desktop or laptop computer browser.
+• The **[Slingshot Game](https://emjose.github.io/slingshot/)** is best viewed or played on a desktop or laptop computer browser.
 
 • The **[Slingshot Game](https://emjose.github.io/slingshot/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 
