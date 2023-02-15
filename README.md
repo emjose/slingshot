@@ -22,11 +22,11 @@
 
 <a href=#table-of-contents>![Table of Contents](https://res.cloudinary.com/dn1e07eul/image/upload/v1659241355/Readme%20Headers/inter-toc_euxbbw.png)</a>
 
--   [100 Days of Code](#100days)
--   [Installation](#installation)
--   [Live Site](#live-site)
--   [Resources](#resources)
--   [Let's Connect!](#lets-connect)
+- [100 Days of Code](#100days)
+- [Installation](#installation)
+- [Live Site](#live-site)
+- [Resources](#resources)
+- [Let's Connect!](#lets-connect)
 
 <br>
 
@@ -38,9 +38,11 @@
 
 ### Day 21: March 1, 2021
 
--   I love playing <a href="https://www.angrybirds.com/">Angry Birds</a>, and I followed a tutorial on creating a simple slingshot game with <a href="https://brm.io/matter-js/">Matter.js</a>.
+- I love playing <a href="https://www.angrybirds.com/">Angry Birds</a>, and I followed a tutorial on creating a simple slingshot game with <a href="https://brm.io/matter-js/">Matter.js</a>.
 
--   <a href="https://brm.io/matter-js/">Matter.js</a> is a powerful 2D rigid body physics engine written in JavaScript.
+- <a href="https://brm.io/matter-js/">Matter.js</a> is a powerful 2D rigid body physics engine written in JavaScript.
+
+- This engine allows developers to create complex and dynamic interactions within their games and applications, making it a popular choice for game projects.
 
 <br>
 
@@ -88,13 +90,13 @@ open index.html
 
 <a href=#resources>![Resources](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
 
--   #### [Slingshot Tutorial](https://youtu.be/PsL3iI61wl8) by [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
--   #### [Angry Birds with Matter.js](https://youtu.be/TDQzoe9nslY) by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
--   #### [Matter.js Home](https://brm.io/matter-js/) by [Liam](https://brm.io/)
+- #### [Slingshot Tutorial](https://youtu.be/PsL3iI61wl8) by [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
+- #### [Angry Birds with Matter.js](https://youtu.be/TDQzoe9nslY) by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+- #### [Matter.js Home](https://brm.io/matter-js/) by [Liam](https://brm.io/)
 
--   #### [Matter.js Demos](https://brm.io/matter-js/demo/#mixed)
+- #### [Matter.js Demos](https://brm.io/matter-js/demo/#mixed)
 
--   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+- #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
 <br>
 
